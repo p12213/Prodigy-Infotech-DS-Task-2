@@ -1,6 +1,6 @@
 # Prodigy InfoTech Task 02 – Titanic Data Analysis
 
-## 📌 Overview
+##  Overview
 
 This project is part of the Prodigy InfoTech Data Science Internship – Task 02.
 
